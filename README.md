@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dog-ascii.png" alt="My golden retriever drawn in keyboard characters" width="360">
+  <img src="dog-ascii.png" alt="My golden retriever drawn in keyboard characters" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Tyler 👋</h1>
