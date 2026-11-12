@@ -23,16 +23,6 @@
 - ❄️ Engineering internship in industrial refrigeration.
 - 🔍 Looking for **AI-focused internships**, remote or around Toledo, Ohio.
 
-### Things I've built
-
-| Project | What it is |
-|---|---|
-| **Sign shop website + live designer** | A website for a stainless steel address sign shop. Type your number and see it cut through steel on a real wall, in 2D or 3D, with live pricing and quote requests. |
-| **AI follow-up and receptionist systems** | Answers calls, texts back missed calls, books jobs and follows up for local service businesses. |
-| **My AI operating system** | One shared brain that every AI I use (Claude, Codex and a team of agents) reads from, so any project can pick up where the last session left off on any of my computers. |
-| **Online hat brand** | A brand website with a Shopify store, built with my co-founder. |
-| **Paper-trading bot** | An automated crypto trading bot that practices with paper money. |
-
 ### What I work with
 
 `Claude Code` · `Codex` · `JavaScript` · `three.js` · `Python` · `Blender` · `Vercel` · `GoHighLevel` · `Shopify` · `Google Apps Script`
