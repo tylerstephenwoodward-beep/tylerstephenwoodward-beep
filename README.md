@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://woodwardaiautomation.com">woodwardaiautomation.com</a> ·
+  
   <a href="https://linkedin.com/in/tylerstephenwoodward">LinkedIn</a>
 </p>
 
